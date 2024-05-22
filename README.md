@@ -12,3 +12,18 @@ The Simple Notes Application was developed using the following technologies.
 	• Browser's Local Storage
 	• Bootstrap
 
+Features :
+	• Create a New Note
+	• List All Notes
+	• Edit Note
+	• Delete Note
+	• Note's Delete Confirmation
+	• Search Note
+	• Mobile Responsive
+
+How to Run?
+	1. Download the provided source code zip file.
+	2. Extract the source code.
+	3. Locate the index.html file in the extracted source code folder.
+	4. Open the file with your preferred browser such as Chrome Browser.
+
