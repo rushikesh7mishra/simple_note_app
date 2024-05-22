@@ -6,11 +6,11 @@ This is a simple web application entitled Simple Notes Application.
 
 About the Simple Notes Application
 The Simple Notes Application was developed using the following technologies.
-	• HTML
-	• CSS
-	• JavaScript
-	• Browser's Local Storage
-	• Bootstrap
+• HTML
+• CSS
+• JavaScript
+• Browser's Local Storage
+• Bootstrap
 
 Features :
 	• Create a New Note
